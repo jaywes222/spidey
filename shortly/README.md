@@ -1,4 +1,4 @@
-# Shhortly Website
+# Shortly Website
 
 ## Usage
 
