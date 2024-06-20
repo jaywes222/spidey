@@ -1,39 +1,19 @@
-# TailwindCLI
+# Testimonial Grid
 
-## Features
-***Utility-First CSS:*** Use utility classes directly in your HTML for fast, consistent styling.
+Testimonial Grid project from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
 
-***Easy Configuration:*** Customize your styles using a simple configuration file (tailwind.config.js).
+## Usage
 
-***JIT Compilation:*** Automatically purge unused styles for optimal performance.
+Install dependencies
 
-***Responsive Design:*** Built-in support for responsive design and variants.
+```
+npm Install
+```
 
-***Plugins:*** Extend Tailwind's functionality with community plugins or custom plugins.
+Run Tailwind CLI
 
-## Quick Start
+```
+npm run watch
+```
 
-## Install Tailwind CSS:
-npm install -D tailwindcss
-
-## Initialize Configuration:
-npx tailwindcss init
-
-## Create a CSS File (src/styles.css):
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-## Build Your CSS:
-npx tailwindcss build src/styles.css -o dist/output.css
-
-## Link CSS in Your HTML:
-`<link rel="stylesheet" href="dist/output.css">`
-
-## Documentation
-For full documentation, visit the [Tailwind CSS website](https://tailwindcss.com/docs/installation).
-
-## License
-MIT
-
-
+![Alt text](images/testimonial-grid.png)
